@@ -131,7 +131,7 @@ public class Level2 extends GameState {
 		
 		g.setFont(new Font("Time Roman", 0, 15));
 		g.setColor(Color.red);
-		g.drawString((int) player.getX() + "  " + (int) player.getY(), 300, 50);
+		//g.drawString((int) player.getX() + "  " + (int) player.getY(), 300, 50);
 		
 		for (int i = 0; i < enemies.size(); i++)
 			enemies.get(i).render(g);
