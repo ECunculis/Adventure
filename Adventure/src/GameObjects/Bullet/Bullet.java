@@ -8,7 +8,7 @@ import TileMap.TileMap;
 import Tools.Animation;
 import Tools.BufferedImageLoader;
 import Tools.Camera;
-import sun.awt.image.OffScreenImage;
+//import sun.awt.image.OffScreenImage;
 
 public abstract class Bullet extends GameObject {
 

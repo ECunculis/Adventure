@@ -5,7 +5,7 @@ import java.awt.image.BufferedImage;
 import java.util.ArrayList;
 import java.util.LinkedList;
 
-import com.sun.xml.internal.ws.policy.spi.AbstractQNameValidator;
+//import com.sun.xml.internal.ws.policy.spi.AbstractQNameValidator;
 
 import GameObjects.GameObject;
 import GameObjects.Player;
@@ -17,7 +17,7 @@ import Tools.Animation;
 import Tools.BufferedImageLoader;
 import game.Game;
 import Tools.Camera;
-import sun.util.logging.resources.logging_zh_TW;
+//import sun.util.logging.resources.logging_zh_TW;
 
 public class Turret extends Enemy {
 

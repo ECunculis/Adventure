@@ -6,8 +6,8 @@ import java.awt.Graphics;
 import java.util.ArrayList;
 import java.util.LinkedList;
 
-import com.sun.org.apache.bcel.internal.generic.IfInstruction;
-import com.sun.xml.internal.bind.v2.model.core.ID;
+//import com.sun.org.apache.bcel.internal.generic.IfInstruction;
+//import com.sun.xml.internal.bind.v2.model.core.ID;
 
 import GameObjects.GameObject;
 import GameObjects.Player;
@@ -31,7 +31,7 @@ import TileMap.TileMap;
 import Tools.Background;
 import Tools.KeyInput;
 import game.Game;
-import sun.net.www.content.image.x_xbitmap;
+//import sun.net.www.content.image.x_xbitmap;
 import Tools.Camera;
 
 public class Level1 extends GameState {

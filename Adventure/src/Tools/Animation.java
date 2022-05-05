@@ -3,9 +3,9 @@ package Tools;
 import java.awt.Graphics;
 import java.awt.image.BufferedImage;
 
-import com.sun.xml.internal.fastinfoset.algorithm.BooleanEncodingAlgorithm;
-
-import sun.util.logging.resources.logging_zh_TW;
+//import com.sun.xml.internal.fastinfoset.algorithm.BooleanEncodingAlgorithm;
+//
+//import sun.util.logging.resources.logging_zh_TW;
 
 public class Animation {
 

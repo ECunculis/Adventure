@@ -4,7 +4,7 @@ import java.awt.Canvas;
 import java.awt.Graphics;
 import java.awt.image.BufferStrategy;
 
-import com.sun.java.swing.plaf.windows.resources.windows;
+//import com.sun.java.swing.plaf.windows.resources.windows;
 
 import GameStateManager.GameStateManager;
 import Tools.KeyInput;

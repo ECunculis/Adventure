@@ -5,12 +5,12 @@ import java.awt.Rectangle;
 
 import org.w3c.dom.css.Rect;
 
-import com.sun.javafx.collections.MappingChange.Map;
+//import com.sun.javafx.collections.MappingChange.Map;
 
 import TileMap.Tile;
 import TileMap.TileMap;
 import Tools.Camera;
-import javafx.scene.chart.XYChart;
+//import javafx.scene.chart.XYChart;
 
 public abstract class GameObject {
 
