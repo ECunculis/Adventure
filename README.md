@@ -1,10 +1,10 @@
 # Adventure
 2d platform game written in Java
 
-Some materials were used from https://opengameart.org:
-Player model: https://opengameart.org/content/xeon-ultimate-smash-friends
-Enemy model (Blob): https://opengameart.org/content/the-blob-ultimate-smash-friends
-Clouds: https://opengameart.org/content/2d-clouds
+Some materials were used from https://opengameart.org: <br>
+Player model: https://opengameart.org/content/xeon-ultimate-smash-friends <br>
+Enemy model (Blob): https://opengameart.org/content/the-blob-ultimate-smash-friends <br>
+Clouds: https://opengameart.org/content/2d-clouds <br>
 
 
 ![Animation5](https://user-images.githubusercontent.com/31374191/166976129-2705a881-69d0-4588-b572-75cabac05dea.gif)
